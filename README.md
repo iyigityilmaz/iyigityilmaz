@@ -3,6 +3,7 @@
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/iyigityilmaz) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/iyigityilmaz/)
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismetyigityilmaz@gmail.com)
 
+* Hi, I'm a Self-Taught Web Developer.
 * I'm currently learning react.js and javascript.
 
 ## 💻 Languages and Tools
